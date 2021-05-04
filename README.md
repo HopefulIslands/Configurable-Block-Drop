@@ -1,6 +1,6 @@
-Native Minecraft Version:
+Native Minecraft Version: 1.13 | 1.16
 
-1.13
+
 Tested Minecraft Versions:
 
 1.13   |  1.14   | 1.15  | 1.16
