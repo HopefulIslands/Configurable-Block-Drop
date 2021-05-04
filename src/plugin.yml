@@ -1,0 +1,10 @@
+name: BlockDrop
+main: kane.Main
+version: 1.0
+api-version: 1.13
+author: Voidy
+
+
+commands:
+  blockdrop:
+    description: Reloads the plugin
